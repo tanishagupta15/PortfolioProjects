@@ -1,5 +1,6 @@
 # Data Analysis Portfolio
 This repository features a collection of data analysis projects demonstrating skills in web scraping, data manipulation, Excel analysis, and SQL querying.
+[Portfolio](https://tanishagupta15.github.io/PortfolioWebsite.github.io/)
 
 ## Projects
 
